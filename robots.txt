@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thuathohp.nathankeyes.com/sitemap.xml
